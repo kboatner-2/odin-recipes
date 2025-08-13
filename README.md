@@ -1,0 +1,1 @@
+"odin-recipes" is a web page project to practice and showcase HTML fundamentals through food.
